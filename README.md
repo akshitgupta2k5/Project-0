@@ -1,5 +1,8 @@
 # Project 0
 
+## Name
+Akshit Gupta
+
 ## Repository
 [GitHub Repository](https://github.com/akshitgupta2k5/Project-0)
 
