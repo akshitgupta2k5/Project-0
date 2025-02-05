@@ -1,8 +1,5 @@
 # Project 0
 
-## Overview
-A brief description of your project. (Replace this with details about what your project does.)
-
 ## Repository
 [GitHub Repository](https://github.com/akshitgupta2k5/Project-0)
 
